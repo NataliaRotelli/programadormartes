@@ -1,0 +1,25 @@
+h1{
+    color: rgb(255, 0, 162); /*comentario en css - color de la tipografia*/
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(172, 167, 71, 0.849);
+    text-align: center;
+}
+
+h2{
+    color: rgb(255, 0, 251);
+    font-style: italic;
+}
+
+p{
+    color: rgb(95, 218, 245);
+}
+
+.destacados{
+    font-size: 30px;
+    font-weight: bold;
+    font-weight: 100;
+}
+
+li{
+    border-radius: 121px 121px 121px 121px;
+}
